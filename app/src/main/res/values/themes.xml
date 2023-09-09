@@ -1,0 +1,10 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KotlinCalcApp" parent="Theme.AppCompat" />
+
+    <item name="colorPrimary" type="color">@color/purple</item>
+    <item name="colorPrimaryVariant" type="color">@color/almostBlack</item>
+    <item name="colorOnPrimary" type="color">@color/white</item>
+</resources>
